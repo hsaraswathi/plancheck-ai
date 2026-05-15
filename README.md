@@ -230,12 +230,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ---
 
-## License
-
-[MIT](LICENSE) – (Add a LICENSE file if you choose to use this.)
-
----
-
 ## Acknowledgments
 
 - Built with [LangGraph](https://www.langchain.com/langgraph) and [LangChain](https://www.langchain.com/).
