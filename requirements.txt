@@ -1,0 +1,14 @@
+ezdxf>=1.4.3
+langchain>=1.2.17
+langchain-chroma>=1.1.0
+langchain-huggingface>=1.2.2
+langchain-openai>=1.2.1
+langgraph>=1.1.10
+protobuf<4.21.0
+pypdf>=6.10.2
+python-dotenv>=1.2.2
+sentence-transformers>=5.4.1
+shapely>=2.1.2
+streamlit>=1.57.0
+torch>=2.11.0
+torchvision>=0.26.0
